@@ -1,0 +1,7 @@
+{
+  "name": "ManaDream YouTube SEO",
+  "description": "A YouTube SEO Analyzer and CRM application built with React and Tailwind CSS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
